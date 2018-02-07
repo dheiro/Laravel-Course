@@ -1,2 +1,2 @@
 # Laravel-Course
-this is CRUD project to manage Course application with Laravel 5.5
+This is CRUD project to manage Course Application with Laravel 5.5
